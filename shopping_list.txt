@@ -1,0 +1,8 @@
+spożywcze:
+ser/0.5/kg
+jajko/10.0/szt
+mleko/1.5/l
+chemia:
+mydło/3.0/szt
+motoryzacja:
+odświeżacz powietrza/1.0/szt

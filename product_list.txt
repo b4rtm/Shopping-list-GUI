@@ -1,0 +1,11 @@
+spożywcze:
+jajko/szt
+ser/kg
+chleb/szt
+mleko/l
+chemia:
+mydło/szt
+płyn do mycia naczyń/l
+motoryzacja:
+odświeżacz powietrza/szt
+płyn do spryskiwaczy/l
